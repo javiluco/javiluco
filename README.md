@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! 👋 Soy Javiera Luco, una programadora junior en constante búsqueda de aprendizaje y emocionada por sumergirme en el mundo del desarrollo de software.<br>Veo el código como una oportunidad para aprender y mejorar. Mi enfoque es construir soluciones efectivas y eficientes, me emociona poder aportar en proyectos desafiantes que me permitan ampliar mis habilidades y contribuir al mundo del desarrollo de software.<br>Estoy abierto/a a nuevas oportunidades y proyectos interesantes. ¡Vamos a construir algo asombroso juntos! 🚀
+¡Hola! 👋 Soy Javiera Luco, una programadora junior en constante búsqueda de aprendizaje y emocionada por sumergirme en el mundo del desarrollo de software.<br>Veo el código como una oportunidad para aprender y mejorar. Mi enfoque es construir soluciones efectivas y eficientes, me emociona poder aportar en proyectos desafiantes que me permitan ampliar mis habilidades y contribuir al mundo del desarrollo de software.<br>Estoy abierta a nuevas oportunidades y proyectos interesantes. ¡Vamos a construir algo asombroso juntos! 🚀
 
 
 ## 🌐 Socials:
